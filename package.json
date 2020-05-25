@@ -1,0 +1,14 @@
+{
+  "name": "sitiowebestatico",
+  "version": "1.0.0",
+  "description": "Creacion de un sitio web estatico con express y node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jaletzie Arleth Carrillo Hernández 4E",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

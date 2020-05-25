@@ -1,0 +1,1 @@
+alert('Bienvenido a este sitio web');
